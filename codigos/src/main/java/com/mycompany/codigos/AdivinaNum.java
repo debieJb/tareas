@@ -6,8 +6,7 @@ public class AdivinaNum {
 
     public static void main(String[] args) {
 
-        int numeroEscondido = 2;
-        // El número a adivinar
+        int numeroEscondido = 2; // El número a adivinar
         Scanner scanner = new Scanner(System.in);
         int numeroIngresado;
 
